@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Flight
+DTSTART:20180817T130000
+DTEND:20180817T133000
+DESCRIPTION:In the unlikely event of a sudden loss of cabin pressure, next of kin and an extra pillow will be provided. Flight takes place in a shipping container in absolute darkness, every 30 minutes. Created by Darkfield.
+LOCATION:Summerhall
+GEO:55.939903;-3.182338
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Summerhall;X-APPLE-RADIUS=72;X-TITLE=Summerhall:geo:55.939903,-3.182338
+URL:https://tickets.edfringe.com/whats-on/flight
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wil Greenway: Either Side of Everything
+DTSTART:20180817T145000
+DTEND:20180817T155000
+DESCRIPTION:Master storyteller and underground hit of the Fringe returns with a new show you can't see when you're dead. Sold out 2015-2017, Best Comedy Storytelling Act 2017 – What's On London Comedy Awards.
+LOCATION:Underbelly, Bristo Square
+GEO:55.944439;-3.190297
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Underbelly, Bristo Square;X-APPLE-RADIUS=72;X-TITLE=Underbelly, Bristo Square:geo:55.944439,-3.190297
+URL:https://tickets.edfringe.com/whats-on/wil-greenway-either-side-of-everything
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Games by Henry Naylor
+DTSTART:20180817T163000
+DTEND:20180817T173000
+DESCRIPTION:Europe fracturing. Anti-Semitism rising. Right-wing populism surging. This is the timely, true story of Helene Mayer, the only Jewish athlete in the 1936 Nazi Olympic Team. Cautionary tale by three-time Fringe First winner Naylor
+LOCATION:Gilded Balloon Teviot
+GEO:55.945122;-3.188612
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Gilded Balloon Teviot;X-APPLE-RADIUS=72;X-TITLE=Gilded Balloon Teviot:geo:55.945122,-3.188612
+URL:https://tickets.edfringe.com/whats-on/games-by-henry-naylor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything Not Saved
+DTSTART:20180817T175000
+DTEND:20180817T185000
+DESCRIPTION:This show is about memory (but not nostalgia). Come see ex-lovers argue about when they were happiest, police officers accidentally rewrite history and Rasputin dance like no one's watching. It's a ritual, a sacrifice, a purge.
+LOCATION:Summerhall
+GEO:55.939903;-3.182338
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Summerhall;X-APPLE-RADIUS=72;X-TITLE=Summerhall:geo:55.939903,-3.182338
+URL:https://tickets.edfringe.com/whats-on/everything-not-saved
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mr. Swallow and the Vanishing Elephant
+DTSTART:20180817T193000
+DTEND:20180817T203000
+DESCRIPTION:Following the five-star, sell-out success of Houdini, Nick Mohammed's alter ego Mr. Swallow is back with another hour of magic, music and elephants.
+LOCATION:Pleasance Courtyard
+GEO:55.947746;-3.18193
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Pleasance Courtyard;X-APPLE-RADIUS=72;X-TITLE=Pleasance Courtyard:geo:55.947746,-3.18193
+URL:https://tickets.edfringe.com/whats-on/mr-swallow-and-the-vanishing-elephant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamilton (Lewis)
+DTSTART:20180817T213000
+DTEND:20180817T223000
+DESCRIPTION:Hamilton (Lewis) is the story of a young, scrappy and hungry Lewis Hamilton, born and raised in Stevenage, the most successful British F1 driver in history. A brand-new musical parody, in no way endorsed by Lin-Manuel Miranda.
+LOCATION:Assembly George Square Studios
+GEO:55.943905;-3.188397
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Assembly George Square Studios;X-APPLE-RADIUS=72;X-TITLE=Assembly George Square Studios:geo:55.943905,-3.188397
+URL:https://tickets.edfringe.com/whats-on/hamilton-lewis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We've got each other
+DTSTART:20180817T225000
+DTEND:20180817T235000
+DESCRIPTION:The almost entirely imagined Bon Jovi musical. Join Paul O'Donnell as he entertainingly attempts to create the spectacle of a full-scale musical (hydraulic lifts and all) with just himself, a space and 180+ lighting cues.
+LOCATION:Pleasance Dome
+GEO:55.946018;-3.18841
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Pleasance Dome;X-APPLE-RADIUS=72;X-TITLE=Pleasance Dome:geo:55.946018,-3.18841
+URL:https://tickets.edfringe.com/whats-on/we-ve-got-each-other
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mark Thomas - Check Up: Our NHS at 70
+DTSTART:20180818T100000
+DTEND:20180818T112500
+DESCRIPTION:Mark Thomas uses his own demise to explore what's going wrong in our NHS, how it can go right and what the future might hold for all of us.
+LOCATION:Traverse Theatre
+GEO:55.947624;-3.204838
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Traverse Theatre;X-APPLE-RADIUS=72;X-TITLE=Traverse Theatre:geo:55.947624,-3.204838
+URL:https://tickets.edfringe.com/whats-on/mark-thomas-check-up-our-nhs-at-70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trojan Horse
+DTSTART:20180818T151500
+DTEND:20180818T162500
+DESCRIPTION:A new documentary play by LUNG (E15, The 56 and Chilcot), Trojan Horse follows the real-life stories of Muslim teachers and governors who were accused of plotting extremism in Birmingham schools.
+LOCATION:Summerhall
+GEO:55.939903;-3.182338
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Summerhall;X-APPLE-RADIUS=72;X-TITLE=Summerhall:geo:55.939903,-3.182338
+URL:https://tickets.edfringe.com/whats-on/trojan-horse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jonny Woo's All Star Brexit Cabaret
+DTSTART:20180818T180000
+DTEND:20180818T190000
+DESCRIPTION:Drag Superstar, Jonny Woo and Olivier Award winner, Richard Thomas (Jerry Springer The Opera) bring you this sequin-spangled musical ripped straight from the headlines. Featuring a star-studded cast of top Fringe talent.
+LOCATION:Assembly George Square Gardens
+GEO:55.943905;-3.188397
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Assembly George Square Gardens;X-APPLE-RADIUS=72;X-TITLE=Assembly George Square Gardens:geo:55.943905,-3.188397
+URL:https://tickets.edfringe.com/whats-on/jonny-woo-s-all-star-brexit-cabaret
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories and Songs With Beans on Toast
+DTSTART:20180818T195000
+DTEND:20180818T205000
+DESCRIPTION:Cult legend Beans on Toast's debut Fringe appearance. A unique performance of love songs, protest songs and drinking songs intertwined with stories behind the songs and the random adventures they've led him on.
+LOCATION:The Voodoo Rooms
+GEO:55.953671;-3.190629
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The Voodoo Rooms;X-APPLE-RADIUS=72;X-TITLE=The Voodoo Rooms:geo:55.953671,-3.190629
+URL:https://tickets.edfringe.com/whats-on/stories-and-songs-with-beans-on-toast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life Stand
+DTSTART:20180818T214500
+DTEND:20180818T225500
+DESCRIPTION:A late-night search for intimacy across a hyperconnected, hypersexualised city, from the award-winning team behind All We Ever Wanted Was Everything. Written by Eve Nicol with music by James Frewer and Honeyblood.
+LOCATION:Roundabout @ Summerhall
+GEO:55.939903;-3.182338
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Roundabout @ Summerhall;X-APPLE-RADIUS=72;X-TITLE=Roundabout @ Summerhall:geo:55.939903,-3.182338
+URL:https://tickets.edfringe.com/whats-on/one-life-stand
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lights Over Tesco Car Park
+DTSTART:20180819T105000
+DTEND:20180819T115000
+DESCRIPTION:Basically: Robert reported lights over the Tesco car park. Then he told us an alien was coming to stay in his spare room. A docu-comedy. Samuel French New Play Award winner 2018.
+LOCATION:Pleasance Dome
+GEO:55.946018;-3.18841
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Pleasance Dome;X-APPLE-RADIUS=72;X-TITLE=Pleasance Dome:geo:55.946018,-3.18841
+URL:https://tickets.edfringe.com/whats-on/lights-over-tesco-car-park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tom Neenan: It's Always Infinity
+DTSTART:20180819T154500
+DTEND:20180819T164500
+DESCRIPTION:A multimedia narrative-driven character comedy about Tom’s attempt to turn a search for his missing girlfriend into a piece of important 'art'.
+LOCATION:Underbelly, Bristo Square
+GEO:55.944439;-3.190297
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Underbelly, Bristo Square;X-APPLE-RADIUS=72;X-TITLE=Underbelly, Bristo Square:geo:55.944439,-3.190297
+URL:https://tickets.edfringe.com/whats-on/tom-neenan-it-s-always-infinity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Underground Railroad Game
+DTSTART:20180819T220000
+DTEND:20180819T232500
+DESCRIPTION:A pair of school teachers are getting down and dirty. Going round after round on the mat of American history, the duo tackles race, sex and power politics in this R-rated, Obie Award-winning, fearless comedy.
+LOCATION:Traverse Theatre
+GEO:55.947624;-3.204838
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Traverse Theatre;X-APPLE-RADIUS=72;X-TITLE=Traverse Theatre:geo:55.947624,-3.204838
+URL:https://tickets.edfringe.com/whats-on/underground-railroad-game
+END:VEVENT
+END:VCALENDAR
